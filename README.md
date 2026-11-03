@@ -57,6 +57,6 @@ Coming soon — I'm documenting and publishing my academic and personal projects
 
 - 💼 LinkedIn: www.linkedin.com/in/revanthaddala/
 - 📧 Email: revanthaddalade@gmail.com
-- 💻 GitHub: 
+- 💻 GitHub: github.com/revanth-addala
 
 *Learning continuously. Building consistently. Growing every day.* 🚀
