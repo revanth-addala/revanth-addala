@@ -55,8 +55,8 @@ Coming soon — I'm documenting and publishing my academic and personal projects
 
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: [Add your professional email]
-- 💻 GitHub: [Your GitHub profile URL]
+- 💼 LinkedIn: www.linkedin.com/in/revanthaddala/
+- 📧 Email: revanthaddalade@gmail.com
+- 💻 GitHub: 
 
 *Learning continuously. Building consistently. Growing every day.* 🚀
